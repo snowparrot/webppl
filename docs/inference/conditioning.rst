@@ -7,7 +7,7 @@ Conditioning is supported through the use of the ``condition``,
 ``observe`` and ``factor`` operators. Only a brief summary of these
 methods is given here. For a more detailed introduction, see the
 `Probabilistic Models of Cognition chapter on conditioning
-<https://probmods.org/chapters/03-conditioning.html>`_.
+<https://probmods.org/chapters/conditioning.html>`_.
 
 Note that because these operators *interact* with inference, they can
 only be used *during* inference. Attempting to use them outside of
